@@ -1,0 +1,16 @@
+{
+  "questions": [
+    {
+      "title": "What is the capital of Cambodia?",
+      "choices": ["Phnom Penh", "Siem Reap", "Battambang", "Kampot"],
+      "goodChoice": "Phnom Penh",
+      "points": 10
+    },
+    {
+      "title": "What language is primarily spoken in Cambodia?",
+      "choices": ["Khmer", "Thai", "Vietnamese", "English"],
+      "goodChoice": "Khmer",
+      "points": 10
+    }
+  ]
+}
