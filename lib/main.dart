@@ -1,4 +1,4 @@
-import 'domain/quiz.dart';
+import 'package:my_first_project/domain/quiz_repository.dart';
 import 'ui/quiz_console.dart';
 
 void main() {
